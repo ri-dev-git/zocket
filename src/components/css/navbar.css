@@ -1,0 +1,164 @@
+/*Navbar*/
+.navbar {
+  display: flex;
+  position: fixed;
+  width: 1440px;
+  height: 72px;
+  left: 50px;
+  top: 0px;
+  z-index: 1;
+
+  background: #ffffff;
+}
+.nave-links {
+  list-style: none;
+}
+.Zocket-logo {
+  position: absolute;
+  width: 150.86px;
+  height: 48px;
+  left: 165px;
+  top: 12px;
+}
+.nav-contents1 {
+  position: absolute;
+  left: 50.29%;
+  right: 45.96%;
+  top: 26px;
+  list-style: none;
+  bottom: 98.94%;
+
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 20px;
+  cursor: pointer;
+  /* identical to box height, or 143% */
+
+  font-feature-settings: "salt" on, "liga" off;
+
+  /* Text / Gray 900 */
+
+  color: #18191f;
+}
+.nav-contents2 {
+  position: absolute;
+  left: 56.26%;
+  right: 39.47%;
+  top: 26px;
+  bottom: 98.94%;
+  list-style: none;
+
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 20px;
+  cursor: pointer;
+  /* identical to box height, or 143% */
+
+  font-feature-settings: "salt" on, "liga" off;
+
+  /* Text / Gray 900 */
+
+  color: #18191f;
+}
+.nav-contents3 {
+  position: absolute;
+  left: 61.75%;
+  right: 35.61%;
+  top: 26px;
+  bottom: 98.94%;
+  list-style: none;
+
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 20px;
+  cursor: pointer;
+  /* identical to box height, or 143% */
+
+  font-feature-settings: "salt" on, "liga" off;
+
+  /* Text / Gray 900 */
+
+  color: #18191f;
+}
+.nav-contents4 {
+  position: absolute;
+  left: 66.61%;
+  right: 30.27%;
+  top: 26px;
+  bottom: 98.94%;
+  list-style: none;
+
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 20px;
+  cursor: pointer;
+  /* identical to box height, or 143% */
+
+  font-feature-settings: "salt" on, "liga" off;
+
+  /* Text / Gray 900 */
+
+  color: #18191f;
+}
+.nav-contents5 {
+  position: absolute;
+  left: 71.96%;
+  right: 24.57%;
+  top: 26px;
+  bottom: 98.94%;
+  list-style: none;
+
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 20px;
+  cursor: pointer;
+  /* identical to box height, or 143% */
+
+  font-feature-settings: "salt" on, "liga" off;
+
+  /* Text / Gray 900 */
+
+  color: #18191f;
+}
+.nav-button {
+  position: absolute;
+  height: 40px;
+  width: 154px;
+  left: 1118.181640625px;
+  top: 16px;
+  border-radius: 6px;
+  transition: 0.6s;
+
+  /* Primary */
+
+  background: #0f6eff;
+  border-radius: 6px;
+
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 20px;
+  border: none;
+  /* identical to box height, or 143% */
+
+  text-align: center;
+  font-feature-settings: "salt" on, "liga" off;
+
+  color: #ffffff;
+}
+.nav-button:hover {
+  cursor: pointer;
+  background: white;
+  color: #0f6eff;
+}

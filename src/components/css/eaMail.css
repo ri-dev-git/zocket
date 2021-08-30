@@ -1,0 +1,47 @@
+.eaMail {
+  /* Be the first to know */
+
+  position: relative;
+  width: 1361px;
+  height: 380px;
+  left: 100px;
+  top: 1800px;
+}
+.eainput1 {
+  position: relative;
+  top: 1631px;
+  left: 705px;
+  width: 248px;
+  height: 47px;
+  background: #f4f5f7;
+  border-radius: 6px 0px 0px 6px;
+  border: 0px;
+}
+.Gea {
+  position: absolute;
+  top: 3656px;
+  left: 965px;
+  height: 50px;
+  width: 166px;
+  background: #0a286b;
+  border-radius: 0px 6px 6px 0px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 20px;
+  /* identical to box height, or 143% */
+
+  font-feature-settings: "salt" on, "liga" off;
+
+  /* Default / White */
+
+  color: #ffffff;
+  border: 0;
+  transition: 0.6s;
+}
+.Gea:hover {
+  background: white;
+  color: #0a286b;
+  cursor: pointer;
+}

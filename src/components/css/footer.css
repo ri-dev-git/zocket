@@ -1,0 +1,362 @@
+.footer {
+  position: relative;
+  width: 1500px;
+  height: 100%;
+  left: 4px;
+  top: 1850px;
+
+  background: rgba(15, 110, 255, 0.03);
+  border: 1px solid #cacaca;
+  box-sizing: border-box;
+}
+.footer1 {
+  position: absolute;
+  width: 454px;
+  height: 212.18px;
+  left: 144px;
+  top: 80px;
+}
+.Zfooter {
+  position: absolute;
+  width: 150.86px;
+  height: 46.93px;
+  left: 43px;
+  top: 0px;
+}
+
+.cop {
+  position: absolute;
+  left: 43px;
+  top: 86px;
+  width: 173px;
+  height: 23.47px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 24px;
+  /* identical to box height, or 171% */
+
+  font-feature-settings: "salt" on, "liga" off;
+
+  color: #606062;
+}
+.arr {
+  position: absolute;
+  left: 42px;
+  top: 117px;
+  height: 212.18px;
+  width: 454px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 24px;
+  /* identical to box height, or 171% */
+
+  font-feature-settings: "salt" on, "liga" off;
+
+  color: #606062;
+}
+.ig {
+  position: absolute;
+  width: 32px;
+  height: 31.29px;
+  left: 43px;
+  top: 179px;
+}
+.tweet {
+  position: absolute;
+  width: 32px;
+  height: 31.29px;
+  left: 91px;
+  top: 179px;
+}
+.yout {
+  position: absolute;
+  width: 32px;
+  height: 226px;
+  left: 146px;
+  top: 83px;
+}
+.footer2 {
+  position: absolute;
+  width: 160px;
+  height: 226px;
+  left: 662px;
+  top: 50px;
+}
+#company {
+  position: absolute;
+  width: 160px;
+  height: 29.22px;
+  left: 0px;
+  top: 0px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 30px;
+  /* identical to box height, or 150% */
+
+  font-feature-settings: "salt" on, "liga" off;
+
+  color: #525252;
+}
+
+#Ab {
+  position: absolute;
+  width: 160px;
+  height: 25.33px;
+  left: 0px;
+  top: 52.66px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 26px;
+  /* identical to box height, or 162% */
+
+  font-feature-settings: "salt" on, "liga" off;
+
+  color: #606062;
+}
+#blog {
+  position: absolute;
+  width: 160px;
+  height: 25.33px;
+  left: 0px;
+  top: 89.62px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 26px;
+  /* identical to box height, or 162% */
+
+  font-feature-settings: "salt" on, "liga" off;
+
+  color: #606062;
+}
+#Cu {
+  /* Contact us */
+
+  position: absolute;
+  width: 160px;
+  height: 25.33px;
+  left: 0px;
+  top: 126.64px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 26px;
+  /* identical to box height, or 162% */
+
+  font-feature-settings: "salt" on, "liga" off;
+
+  color: #606062;
+}
+#Pricing {
+  /* Pricing */
+
+  position: absolute;
+  width: 160px;
+  height: 25.33px;
+  left: 0px;
+  top: 163.66px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 26px;
+  /* identical to box height, or 162% */
+
+  font-feature-settings: "salt" on, "liga" off;
+
+  color: #606062;
+}
+#testimonials {
+  position: absolute;
+  width: 160px;
+  height: 25.33px;
+  left: 0px;
+  top: 200.67px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 26px;
+  /* identical to box height, or 162% */
+
+  font-feature-settings: "salt" on, "liga" off;
+
+  color: #606062;
+}
+
+.footer3 {
+  position: absolute;
+  top: 50px;
+  left: 852px;
+  width: 160px;
+  height: 226px;
+}
+#support {
+  position: absolute;
+  width: 160px;
+  height: 29.22px;
+  left: 0px;
+  top: 0px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 30px;
+  /* identical to box height, or 150% */
+
+  font-feature-settings: "salt" on, "liga" off;
+
+  color: #525252;
+}
+#hc {
+  position: absolute;
+  width: 160px;
+  height: 25.33px;
+  left: 0px;
+  top: 52.6px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 26px;
+  /* identical to box height, or 162% */
+
+  font-feature-settings: "salt" on, "liga" off;
+
+  color: #606062;
+}
+#tos {
+  position: absolute;
+  width: 160px;
+  height: 25.33px;
+  left: 0px;
+  top: 89.62px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 26px;
+  /* identical to box height, or 162% */
+
+  font-feature-settings: "salt" on, "liga" off;
+
+  color: #606062;
+}
+#legal {
+  position: absolute;
+  width: 160px;
+  height: 25.33px;
+  left: 0px;
+  top: 126.64px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 26px;
+  /* identical to box height, or 162% */
+
+  font-feature-settings: "salt" on, "liga" off;
+
+  color: #606062;
+}
+#pp {
+  position: absolute;
+  width: 160px;
+  height: 25.33px;
+  left: 0px;
+  top: 163.66px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 26px;
+  /* identical to box height, or 162% */
+
+  font-feature-settings: "salt" on, "liga" off;
+
+  color: #606062;
+}
+#status {
+  position: absolute;
+  width: 160px;
+  height: 25.33px;
+  left: 0px;
+  top: 200.67px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 26px;
+  /* identical to box height, or 162% */
+
+  font-feature-settings: "salt" on, "liga" off;
+
+  color: #606062;
+}
+.footer4 {
+  position: absolute;
+  width: 255px;
+  height: 91px;
+  left: 1100px;
+  top: 80px;
+}
+.gg {
+  position: absolute;
+  top: 0px;
+  left: 0;
+}
+
+.fmail {
+  position: absolute;
+  top: 3995.28px;
+  left: 1110px;
+  background: #75869e;
+  opacity: 0.5;
+  border-radius: 6px;
+  width: 255px;
+  height: 38.72px;
+  border: 0px;
+}
+
+.fsend {
+  position: absolute;
+  top: 3997.28px;
+  left: 1375px;
+  height: 30.97px;
+  width: 30.5px;
+}
+.fmail::placeholder {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 15px;
+  line-height: 24px;
+  color: #000000;
+  position: absolute;
+  top: 8px;
+  left: 8px;
+}

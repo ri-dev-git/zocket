@@ -1,0 +1,160 @@
+.cont {
+  position: relative;
+  width: 100%;
+  height: 591px;
+  left: 0px;
+  top: 1700px;
+
+  background: rgba(15, 110, 255, 0.03);
+}
+.test {
+  /* Section Title */
+
+  position: absolute;
+  width: 448px;
+  height: 64px;
+  left: 500px;
+  top: 0px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 48px;
+  line-height: 64px;
+  /* identical to box height, or 133% */
+
+  font-feature-settings: "salt" on, "liga" off;
+
+  color: #18191f;
+}
+.quotes {
+  position: absolute;
+  height: 149px;
+  width: 175.22813415527344px;
+  left: 1168px;
+  top: 30px;
+}
+.testmonTitle1 {
+  position: absolute;
+  left: 165px;
+  top: 155px;
+  width: 350px;
+  height: 192px;
+  background: #f3f3f3;
+  border-radius: 10px;
+}
+.testmonTitle2 {
+  position: absolute;
+  left: 545px;
+  top: 155px;
+  width: 350px;
+  height: 192px;
+
+  background: #f3f3f3;
+  border-radius: 10px;
+}
+.testmonTitle3 {
+  /* Rectangle 12 */
+
+  position: absolute;
+  width: 350px;
+  height: 192px;
+  left: 925px;
+  top: 155px;
+
+  background: #f3f3f3;
+  border-radius: 10px;
+}
+.testTitle {
+  position: absolute;
+  height: 28px;
+  width: 270px;
+  left: 40px;
+  top: 40px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 28px;
+  /* identical to box height, or 156% */
+
+  text-align: center;
+  font-feature-settings: "salt" on, "liga" off;
+
+  /* Text / Gray 900 */
+
+  color: #18191f;
+}
+.testiContent {
+  position: absolute;
+  height: 72px;
+  width: 270px;
+  left: 40px;
+  top: 80px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  /* or 171% */
+
+  text-align: center;
+  font-feature-settings: "salt" on, "liga" off;
+}
+.tImage {
+  position: absolute;
+  width: 56px;
+  height: 56px;
+  left: 145px;
+  top: 225px;
+  border-radius: 50%;
+}
+.tName {
+  position: absolute;
+  left: 47px;
+  top: 275px;
+  height: 28px;
+  width: 256px;
+  bottom: 23.05%;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 28px;
+  /* identical to box height, or 156% */
+
+  text-align: center;
+  font-feature-settings: "salt" on, "liga" off;
+
+  /* Text / Gray 900 */
+
+  color: #18191f;
+}
+.profession {
+  position: absolute;
+  height: 24px;
+  width: 256px;
+  left: 47px;
+  top: 315px;
+  border-radius: nullpx;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  /* identical to box height, or 171% */
+
+  text-align: center;
+  font-feature-settings: "salt" on, "liga" off;
+
+  /* Text / Gray 800 */
+
+  color: #474a57;
+}
+#testimony {
+  position: relative;
+  top: 500px;
+}

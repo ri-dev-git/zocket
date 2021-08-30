@@ -1,0 +1,138 @@
+/*Tailor Made Srvices*/
+.tmservices {
+  position: absolute;
+  width: 527px;
+  height: 64px;
+  left: 550px;
+  top: 700px;
+
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 64px;
+  /* identical to box height, or 133% */
+
+  font-feature-settings: "salt" on, "liga" off;
+
+  /* Text / Gray 900 */
+
+  color: #18191f;
+}
+.tms1 {
+  position: absolute;
+  width: 350px;
+  height: 346px;
+  left: 225px;
+  top: 850px;
+  background: #ffffff;
+  box-shadow: 0px 10px 20px rgba(41, 41, 42, 0.07);
+  transition: transform 0.5s;
+}
+.tms1:hover {
+  transform: scale(1.08);
+}
+.tms2 {
+  position: absolute;
+  width: 350px;
+  height: 346px;
+  left: 615px;
+  top: 850px;
+  transition: transform 0.5s;
+  background: #ffffff;
+  box-shadow: 0px 10px 20px rgba(41, 41, 42, 0.07);
+}
+.tms2:hover {
+  transform: scale(1.08);
+}
+.tms3 {
+  position: absolute;
+  width: 350px;
+  height: 346px;
+  left: 1000px;
+  top: 850px;
+  transition: transform 0.5s;
+  background: #ffffff;
+  box-shadow: 0px 10px 20px rgba(41, 41, 42, 0.07);
+}
+.tms3:hover {
+  transform: scale(1.08);
+}
+.tmsIcons {
+  position: relative;
+  top: 41px;
+  width: 40px;
+  height: 40px;
+  left: 32px;
+}
+.adtitle {
+  position: relative;
+  top: 75px;
+  left: 32px;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 32px;
+  /* identical to box height, or 133% */
+
+  font-feature-settings: "salt" on, "liga" off;
+
+  /* Text / Gray 900 */
+
+  color: #18191f;
+}
+.content {
+  position: relative;
+  width: 268px;
+  height: 78px;
+  left: 32px;
+  top: 85px;
+
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 26px;
+  /* or 162% */
+
+  font-feature-settings: "salt" on, "liga" off;
+
+  /* Text / Gray 900 */
+
+  color: #18191f;
+}
+.explore {
+  position: relative;
+  height: 16px;
+  width: 45px;
+  top: 100px;
+  left: 32px;
+
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 16px;
+  /* identical to box height, or 133% */
+
+  font-feature-settings: "salt" on, "liga" off;
+
+  /* Primary */
+
+  color: #0f6eff;
+  cursor: pointer;
+  transition: 0.6s;
+}
+.explore:hover {
+  transform: scale(1.2);
+}
+.vector {
+  position: relative;
+  left: 45.67px;
+  top: -15px;
+  transition: 0.6s;
+}
+.vector:hover {
+  transform: scale(1.5);
+}
