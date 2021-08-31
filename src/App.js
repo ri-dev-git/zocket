@@ -18,42 +18,42 @@ const App =() => {
   const [emailFoo,setEmailFoo]=useState("");
   
   const submitEmail1=( )=>{
-    Axios.post("https://zocket-heroku.herokuapp.com/api/insert",{
+    Axios.post("https://keen-edison-e27582.netlify.app/api/insert",{
       reg_mail:email
     }).then(()=>{
       alert("successful insert");
     });
   }
   const submitEmail2=()=>{
-    Axios.post("https://zocket-heroku.herokuapp.com/api/insert",{
+    Axios.post("https://keen-edison-e27582.netlify.app/api/insert",{
       reg_mail:emailEA
     }).then(()=>{
       alert("successful insert");
     });
   } 
   const submitEmail3=()=>{
-    Axios.post("https://zocket-heroku.herokuapp.com/api/insert",{
+    Axios.post("https://keen-edison-e27582.netlify.app/api/insert",{
       reg_mail:emailFoo
     }).then(()=>{
       alert("successful insert");
     });
     }
   const sendmail1=()=>{
-    Axios.post("https://zocket-heroku.herokuapp.com/send",{
+    Axios.post("https://keen-edison-e27582.netlify.app/send",{
       reg_mailS:email
     }).then(()=>{
       alert("successful send");
     });
   }
   const sendmail2=()=>{
-    Axios.post("https://zocket-heroku.herokuapp.com/send",{
+    Axios.post("https://keen-edison-e27582.netlify.app/send",{
       reg_mailS:emailEA
     }).then(()=>{
       alert("successful send");
     });
   }
   const sendmail3=()=>{
-    Axios.post("https://zocket-heroku.herokuapp.com/send",{
+    Axios.post("https://keen-edison-e27582.netlify.app/send",{
       reg_mailS:emailFoo
     }).then(()=>{
       alert("successful send");
@@ -64,7 +64,7 @@ const App =() => {
  const filledEmail=(email,emailEA,emailFoo)=>{
     if(emailEA||emailFoo===""){
     const submitEmail=(email)=>{
-      Axios.post("https://zocket-heroku.herokuapp.com/",{
+      Axios.post("https://keen-edison-e27582.netlify.app/",{
             reg_mail:email
     }).then(()=>{
       alert("successful insert");
@@ -74,7 +74,7 @@ const App =() => {
     }
       else if(email||emailFoo===""){
         const submitEmail=(setEmailEA)=>{
-          Axios.post("https://zocket-heroku.herokuapp.com/",{
+          Axios.post("https://keen-edison-e27582.netlify.app/",{
             reg_mail:emailEA
           }).then(()=>{
             alert("successful insert");
@@ -84,7 +84,7 @@ const App =() => {
       }
       else{
         const submitEmail=(emailFoo)=>{
-          Axios.post("https://zocket-heroku.herokuapp.com/",{reg_mail:emailFoo}).then(()=>{
+          Axios.post("https://keen-edison-e27582.netlify.app/",{reg_mail:emailFoo}).then(()=>{
             alert("successful insert");
           });
           }
